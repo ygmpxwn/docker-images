@@ -1,3 +1,3 @@
 # docker-images
 
-https://github.com/ygmpxwn/docker-images
+https://ghcr.io/ygmpxwn/docker-images
